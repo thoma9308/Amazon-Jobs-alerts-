@@ -1,0 +1,45 @@
+name: Check Amazon Jobs
+
+on:
+  schedule:
+    # Runs every 5 minutes. GitHub may occasionally delay this slightly
+    # during high load -- it is a "best effort" schedule, not exact.
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {} # lets you also trigger it manually from the Actions tab
+
+permissions:
+  contents: write # needed so the workflow can save/update seen_jobs.json
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run job checker
+        env:
+          POSTAL_CODE: "EN3 7PZ"
+          SEARCH_QUERY: ""
+          GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_RECIPIENT: ${{ secrets.ALERT_RECIPIENT }}
+        run: python scraper.py
+
+      - name: Save results back to repo
+        run: |
+          git config user.name "job-alert-bot"
+          git config user.email "actions@github.com"
+          git add seen_jobs.json debug_last_run.json || true
+          git diff --quiet --cached || git commit -m "Update seen jobs [skip ci]"
+          git push || true
