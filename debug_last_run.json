@@ -1,1 +1,3341 @@
-[]
+[
+  {
+    "IdentityId": "eu-west-1:21b00bfe-1e91-ccf5-6867-f449c29c49de"
+  },
+  {
+    "IdentityId": "eu-west-1:21b00bfe-1e91-ccf5-6867-f449c29c49de",
+    "Token": "eyJraWQiOiJldS13ZXN0LTEtMTAiLCJ0eXAiOiJKV1MiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJldS13ZXN0LTE6MjFiMDBiZmUtMWU5MS1jY2Y1LTY4NjctZjQ0OWMyOWM0OWRlIiwiYXVkIjoiZXUtd2VzdC0xOjJmMDZlMzI0LTI0ZTYtNDEyZi1iOGEyLTE1Zjg5M2E3ZGZmMyIsImFtciI6WyJ1bmF1dGhlbnRpY2F0ZWQiXSwiaXNzIjoiaHR0cHM6Ly9jb2duaXRvLWlkZW50aXR5LmFtYXpvbmF3cy5jb20iLCJodHRwczovL2NvZ25pdG8taWRlbnRpdHkuYW1hem9uYXdzLmNvbS9pZGVudGl0eS1wb29sLWFybiI6ImFybjphd3M6Y29nbml0by1pZGVudGl0eTpldS13ZXN0LTE6MTQ0Njg3NDk2NzM0OmlkZW50aXR5cG9vbC9ldS13ZXN0LTE6MmYwNmUzMjQtMjRlNi00MTJmLWI4YTItMTVmODkzYTdkZmYzIiwiZXhwIjoxNzk0NzkxNTI1LCJpYXQiOjE3OTQ3OTA5MjV9.PEna7zm5yeBd6N2X-8YD9XxSJ0kKcTGgStMLZ3ydoCWD5Vot5cMoU2NkaHePDTHSJYd1RCNA0y8l8-RhAMEkQfHwWiPVBJ_y1QSebyoKT2L8rnTyp0I0FxKmrVricfy9hVnbBSILp8Dt8bbKEpJeQgzD3MgK6hMBZtB9XTK36cvsczNKIYH56Ee_Y_JMqrBsm3rUL8tGmg4MoPt7si_Ojjo4AhK0I12ZTTeewY1SXkzqhWTKvSlCalpqDZwKzvhBH15GJFm09sdF5QlXCW2qni3CNXCK93zI2i_AmdExFNafzQdvkgZsBqHByf7rceGu2YUGtiq_4svMCE50v8OcDg"
+  },
+  {
+    "token": "96810ae8-2f16-4bc2-a125-cc80d955ead8:FAoAikxp3dsjKQAA:NE3HbB+/LJGijXTludPGOEG9zaqvfy2F/hDMLAZfjpbUE/2ycGNagNOrYawsiGuKqIzNA95CjmvqasjQ7euuH/Z6Xub7+6E2P1tC9AlA+bqeHCzeSYY/FnOitI/HN9q8nIMm7I+BDaoEdlPYcgf04NMk4RD5wrE6lnZy0FCyOEukLngdNCdatLXotTbz5bKZNO6Qr4Yk+OvTjFIEcVBJodJtGwz6b9Bj7M8/1pbdudcQiR1LRGoHXljna67uNNJrL7ITkriZqlnXj9vVpSgj7Bd0nwB/R/Oi9vubRA1tYRT2uaYT1S5X7Kd/pJtboTRN2oHayN2VveyEMQqxOlDsSdW9bC+1srbKS8WEdJQ9sremfi8MU7sNOxbLiGCStDXBSMcI",
+    "inputs": null
+  },
+  {
+    "errorMessage": "Request is unauthorized",
+    "errorMessageStringId": "unauthorized-error"
+  },
+  {
+    "token": "eyJhbGciOiJLTVMiLCJ0eXAiOiJKV1QifQ.eyJpYXQiOjE3OTQ3OTA5MjYsImV4cCI6MTc5NDc5NDUyNn0.AQICAHgRVX6yB5HaOXG/6jWEErD4AnJUVlc3se+5PoiAFFV3IgGtEPI/L0H0dyGKrkf4Bkn4AAAAtDCBsQYJKoZIhvcNAQcGoIGjMIGgAgEAMIGaBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDMswOw8DpB4NFuz0XQIBEIBtH0tzCf69UXJ3NaD9RipS4egUbK+omWuS6r1kjQj1hruUdHxLr12S16bqQ8DXvp/Ha189hUngJCPqVWdd/O+4xHf1RsJouc6Rs0as4Dc46BPwOplUPeGHTy5vz0/rlhB7lx8DI4c+wJ4CXXei3g=="
+  },
+  {
+    "contentMap": {
+      "header": {
+        "errorMessage": null,
+        "banners": [
+          {
+            "title": "Your pay just got an upgrade.",
+            "message": "Effective from 27th September 2026, hourly rates for warehouse associates are increasing, starting from \u00a315.10/h. There's never been a better time to apply.",
+            "linkSettings": "_self",
+            "enabled": true,
+            "bannerType": "Informational",
+            "ariaDismissLabel": "Dismiss announcement",
+            "includedPages": "hvhglobal",
+            "valid": true,
+            "isValid": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "contentMap": {
+      "header": {
+        "errorMessage": null,
+        "navBarLinks": [
+          {
+            "title": "Job Roles",
+            "pageUrl": null,
+            "dataTestId": "JobRolesLink",
+            "isMultiLevel": "true",
+            "subLinks": [
+              {
+                "title": "Warehouse Jobs",
+                "pageUrl": null,
+                "dataTestId": "WarehouseJobsButtonLink",
+                "isMultiLevel": null,
+                "subLinks": [
+                  {
+                    "title": "Intro to Warehouse Jobs",
+                    "pageUrl": "associate-roles",
+                    "dataTestId": "FulfilmentCenterLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "Warehouse Operative",
+                    "pageUrl": "associate-roles/warehouse-operative",
+                    "dataTestId": "WarehouseOperativeLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "Sortation Operative",
+                    "pageUrl": "associate-roles/sortation-operative",
+                    "dataTestId": "SortationOperativeLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "Amazon Fresh Warehouse",
+                    "pageUrl": "associate-roles/fresh",
+                    "dataTestId": "AmazonFreshWarehouseLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "",
+                    "pageUrl": null,
+                    "dataTestId": "space",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "",
+                    "pageUrl": null,
+                    "dataTestId": "space",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  }
+                ],
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              },
+              {
+                "title": "Customer Service Jobs",
+                "pageUrl": null,
+                "dataTestId": "CustomerServiceButtonLink",
+                "isMultiLevel": null,
+                "subLinks": [
+                  {
+                    "title": "Intro to Customer Service Jobs ",
+                    "pageUrl": "customer-service",
+                    "dataTestId": "CustomerServiceLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "Customer Service Associate",
+                    "pageUrl": "customer-service/associate",
+                    "dataTestId": "CustomerServiceAssociateLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "Remote Customer Service Associate",
+                    "pageUrl": "customer-service/virtual",
+                    "dataTestId": "RemoteCustomerServiceAssociateLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "",
+                    "pageUrl": null,
+                    "dataTestId": "space",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "",
+                    "pageUrl": null,
+                    "dataTestId": "space",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  }
+                ],
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              }
+            ],
+            "translationKey": null,
+            "externalLink": null,
+            "isLink": null,
+            "isDynamicPath": null
+          },
+          {
+            "title": "Hiring Process",
+            "pageUrl": null,
+            "dataTestId": "HiringProcessLink",
+            "isMultiLevel": null,
+            "subLinks": [
+              {
+                "title": "Fulfilment Associate",
+                "pageUrl": "associate-roles/hiring-process",
+                "dataTestId": "FulfilmentAssociateHiringProcessLink",
+                "isMultiLevel": null,
+                "subLinks": null,
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              },
+              {
+                "title": "Customer Service",
+                "pageUrl": "customer-service/hiring-process",
+                "dataTestId": "CustomerServiceHiringProcessLink",
+                "isMultiLevel": null,
+                "subLinks": null,
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              },
+              {
+                "title": "",
+                "pageUrl": null,
+                "dataTestId": "space",
+                "isMultiLevel": null,
+                "subLinks": null,
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              },
+              {
+                "title": "",
+                "pageUrl": null,
+                "dataTestId": "space",
+                "isMultiLevel": null,
+                "subLinks": null,
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              }
+            ],
+            "translationKey": null,
+            "externalLink": null,
+            "isLink": null,
+            "isDynamicPath": null
+          },
+          {
+            "title": "Why Choose Amazon",
+            "pageUrl": null,
+            "dataTestId": "WhyChooseAmazonLink",
+            "isMultiLevel": "true",
+            "subLinks": [
+              {
+                "title": "Benefits",
+                "pageUrl": null,
+                "dataTestId": "BenefitsLink",
+                "isMultiLevel": null,
+                "subLinks": [
+                  {
+                    "title": "Fulfilment Associate Benefits",
+                    "pageUrl": "associate-roles/benefits",
+                    "dataTestId": "FulfilmentAssociateBenefitsLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "Customer Service Benefits",
+                    "pageUrl": "customer-service/benefits",
+                    "dataTestId": "CustomerServiceBenefitsLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "Culture",
+                    "pageUrl": "culture",
+                    "dataTestId": "CultureLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "Leadership Principles",
+                    "pageUrl": "leadership-principles",
+                    "dataTestId": "LeadershipPrincipleLink",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "",
+                    "pageUrl": null,
+                    "dataTestId": "space",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  },
+                  {
+                    "title": "",
+                    "pageUrl": null,
+                    "dataTestId": "space",
+                    "isMultiLevel": null,
+                    "subLinks": null,
+                    "translationKey": null,
+                    "externalLink": null,
+                    "isLink": null,
+                    "isDynamicPath": null
+                  }
+                ],
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              }
+            ],
+            "translationKey": null,
+            "externalLink": null,
+            "isLink": null,
+            "isDynamicPath": null
+          },
+          {
+            "title": "Support",
+            "pageUrl": null,
+            "dataTestId": "SupportLink",
+            "isMultiLevel": null,
+            "subLinks": [
+              {
+                "title": "FAQs",
+                "pageUrl": "associate-roles/faqs",
+                "dataTestId": "FaqsLink",
+                "isMultiLevel": null,
+                "subLinks": null,
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              },
+              {
+                "title": "Request accommodation",
+                "pageUrl": "people-with-disabilities",
+                "dataTestId": "RequestAccommodationLink",
+                "isMultiLevel": null,
+                "subLinks": null,
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              },
+              {
+                "title": "Youth Promise",
+                "pageUrl": "youthpromise",
+                "dataTestId": "YouthpromiseLink",
+                "isMultiLevel": null,
+                "subLinks": null,
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              },
+              {
+                "title": "Contact us",
+                "pageUrl": "contact-us",
+                "dataTestId": "ContactusLink",
+                "isMultiLevel": null,
+                "subLinks": null,
+                "translationKey": null,
+                "externalLink": null,
+                "isLink": null,
+                "isDynamicPath": null
+              }
+            ],
+            "translationKey": null,
+            "externalLink": null,
+            "isLink": null,
+            "isDynamicPath": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Intercepts": [
+      {
+        "InterceptID": "SI_erI6eosCnehIFKu",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_eS96dlHIkH10dnw",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_eDqeh6qF9OXAFZs",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_d3Y1haaEtY9YTX0",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_cZPY2OKp87vcZPo",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_cBg8IPEMSvrFiBM",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_O80ZHP9fs2bRxUR",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_9yNv1vbzSHrcC8u",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_9tSD3bpaHVTFdYi",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_9FU77E8vLq4yzMW",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_80RQkPlCvY0tEvc",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_71xbmimaB3YX9vU",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_6S8lAyLg72iqBSu",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_5ss66OVCd9eDIhg",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_4Pm2ipGVvVR906a",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_3qqYEt2Fv9AHalL",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_3XhjNRYVmUe0KRE",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_3Qzkv61lDtzj6Ky",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_33C6tDzi0BTw3s7",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_2sJ3P6Oteok3CIK",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_20nbqDODZFks3XM",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_1OjaqtKqworTnhA",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_1CkcWAv8UMH4G1w",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_12gwOKZzR6yodwK",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_0Ve4nmYgcKhFPfw",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_0IjDqsrL1dCZPKe",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_0BewLJFfOMqfcBE",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_06SaJkoY2r4ViE6",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      }
+    ],
+    "ClientSideIntercepts": [
+      {
+        "InterceptID": "SI_06SaJkoY2r4ViE6",
+        "Name": "[MX] DTR1 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_0BewLJFfOMqfcBE",
+        "Name": "Commuter Services Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "0",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_0IjDqsrL1dCZPKe",
+        "Name": "[MX] WFS Evergreen Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "4",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_0Ve4nmYgcKhFPfw",
+        "Name": "[EG] CS Job Description Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_12gwOKZzR6yodwK",
+        "Name": "[FR-CA] Hiring Website Survey 2.0",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "28",
+        "PreventRepeatedDisplay": "0",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_1CkcWAv8UMH4G1w",
+        "Name": "[MX] MID1 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_1OjaqtKqworTnhA",
+        "Name": "[US] WFS Evergreen Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "5",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_20nbqDODZFks3XM",
+        "Name": "[US] WNY4 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "4",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_2sJ3P6Oteok3CIK",
+        "Name": "[EG] CS Persona Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_33C6tDzi0BTw3s7",
+        "Name": "[CA-En]  Hiring Website Survey 2.0",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "45",
+        "PreventRepeatedDisplay": "0",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_3Qzkv61lDtzj6Ky",
+        "Name": "[JP] Flexible Schedules Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_3XhjNRYVmUe0KRE",
+        "Name": "[MX] DHM2 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_3qqYEt2Fv9AHalL",
+        "Name": "[US-En] Hiring Website Survey 2.0",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "73",
+        "PreventRepeatedDisplay": "60",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_4Pm2ipGVvVR906a",
+        "Name": "[DE] WFS Evergreen Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_5ss66OVCd9eDIhg",
+        "Name": "[US] Gig Competitor Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": false,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_6S8lAyLg72iqBSu",
+        "Name": "[JP] CS Persona Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_71xbmimaB3YX9vU",
+        "Name": "[EG] CS Channel Mix Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_80RQkPlCvY0tEvc",
+        "Name": "[US] RSR Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "47",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_9FU77E8vLq4yzMW",
+        "Name": "[PH] CS Persona Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_9tSD3bpaHVTFdYi",
+        "Name": "[MX] DMY4 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_9yNv1vbzSHrcC8u",
+        "Name": "[IE] Persona Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "5",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_O80ZHP9fs2bRxUR",
+        "Name": "[US-Es] Hiring Website Survey 2.0",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "43",
+        "PreventRepeatedDisplay": "0",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_cBg8IPEMSvrFiBM",
+        "Name": "[MX] Risk Markets Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "17",
+        "PreventRepeatedDisplay": "60",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_cZPY2OKp87vcZPo",
+        "Name": "[US] AMXL Equipment Operator Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "13",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_d3Y1haaEtY9YTX0",
+        "Name": "[US] AMXL Warehouse Associate Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "17",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_eDqeh6qF9OXAFZs",
+        "Name": "[JP] WFS Evergreen Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "5",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_eS96dlHIkH10dnw",
+        "Name": "[JP] CS Job Description Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_erI6eosCnehIFKu",
+        "Name": "[PH] CS Job Description Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "7",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      }
+    ],
+    "Modules": {},
+    "FeatureFlags": {
+      "DX.PepperPotts_TestingTools": false,
+      "DUX.ClientSideTargetingM1": true,
+      "SI.ResponsiveDialog.EnableDisplayOptions": true,
+      "DX.GoogleDataLayer": true,
+      "DX.CustomCSSChanges": true,
+      "DX.PepperPotts_XMD": true,
+      "DX.UpdateAssetHostName": false,
+      "DX.DxaAdobeEvents": false,
+      "DX.UseDXAIngestionV2": true,
+      "DX.PepperPotts_PakoCompression": true,
+      "isClientLoggingEnabled": false,
+      "DX.EmbeddedFeedback_NewAPIs": true,
+      "DX.PostToStart": true,
+      "DX.DXA_Disable_Inline_Stylesheets": false,
+      "DX.DXA_UseSyntheticPageChangeEvents": true,
+      "DX.DXA_iFrames": true,
+      "DX.DXA_No_Delay": true,
+      "DX.PepperPotts_VisitorEnabled": true,
+      "DX.DXA_Error_Capture": true,
+      "deferredSliderLoadingFeatureEnabled": true,
+      "DX.DxaGoogleEvents": false,
+      "DX.DXA_Enforce_MinSessionLength": true,
+      "DX.EnableTriggers.Experimental": false,
+      "DX.ConsolidateShowOverlay": false,
+      "DX.DXA_NearestClickableTarget": false,
+      "DX.EmbeddedFeedback_GA_Visitor": true,
+      "isLatencyLoggingEnabled": true,
+      "DX.DXA_DI_EA": true,
+      "DX.StatsAccuracy": true,
+      "DX.RealTimeTriggeredIntercepts": true,
+      "DX.DXA_Auto_SPA": false,
+      "DX.DXA_Collect_KPIs": false
+    },
+    "RequestData": {
+      "CORSOrigin": "https://www.jobsatamazon.co.uk",
+      "ID": "ZN_3NL3gGLPGXNwm0K",
+      "adobeSCVariable": "/ss",
+      "bVersion": "Published",
+      "brandBaseUrl": "https://amazonhiring.qualtrics.com",
+      "brandDC": "pdx1.qualtrics.com",
+      "brandID": "amazonhiring",
+      "browser": "Chrome",
+      "browserVersion": 124.0,
+      "cookieDomain": "",
+      "googleDataLayerVariable": "",
+      "displayInterceptType": "",
+      "eventTrackers": {},
+      "extRefType": "",
+      "extRefValue": "",
+      "hasBeenResolved": false,
+      "hasDependencies": false,
+      "isBrowserSupported": true,
+      "isDebug": false,
+      "isMobile": false,
+      "historyStorageType": "sessionStorage",
+      "historyStorageSize": 1000,
+      "maxCookieSize": null,
+      "osName": "Windows",
+      "screenCaptureServiceBaseURL": "https://pdx1.qualtrics.com/htmltoimage/",
+      "validIntercepts": null,
+      "zoneManualDisplay": false,
+      "reevaluateInterceptOnUrlChange": true,
+      "geo": {
+        "country": "US"
+      },
+      "customJavaScriptPermission": false,
+      "isolationStatus": "NOT_ISOLATED",
+      "validatedIdentifier": false,
+      "validatedIdentifierRules": [],
+      "zoneIdentifierRules": [],
+      "zoneID": "ZN_3NL3gGLPGXNwm0K"
+    },
+    "SRTestConfiguration": null,
+    "PageTags": []
+  },
+  {
+    "contentMap": {
+      "footer": {
+        "bodyContent": "<link href=\"https://d3216uwaav9lg7.cloudfront.net/assets-HVHCareer.css\" rel=\"stylesheet\" nonce=\"IUnn2M27ydxg0IaqALsEwQ==\">\n\n<div class=\"desktop\" data-devicetype=\"desktop\">\n  <div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"background-color-ebony-clay padding-left-small padding-right-small padding-top-xsmall padding-bottom-base flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"has-max-width\"><div class=\"padding-left-mini padding-right-mini padding-top-mini padding-bottom-base flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"padding-top-mini flex-container flex-align-items-stretch flex-align-content-flex-start flex-justify-content flex-justify-content-flex-start hvhcareer ember common-en-gb-sb4\" id=\"\"><div class=\"has-max-width\"><div class=\"text align-start text text-normal color-white font-size-t100 hyperlink-color- font-weight-bold align-start\">JOIN US NOW</div></div></div><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start flex-justify-content flex-justify-content-flex-start hvhcareer ember common-en-gb-sb5\" id=\"\"><div class=\"has-max-width\"><div class=\"padding-right-minibase flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb6\" id=\"\"><div class=\"align-start\"><a href=\"https://www.facebook.com/AmazonJobs\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Navigate to our Facebook page.\" class=\"color-facebook \" data-test-id=\"HVHCareersLegoIconWidget\"><svg width=\"32\" height=\"32\" viewBox=\"0 0 448 512\" fill=\"currentColor\" class=\"icon-facebook icon-link\" xmlns=\"http://www.w3.org/2000/svg\" aria-describedby=\"icon-desc\"><desc id=\"icon-desc\">facebook</desc><title>facebook</title><path d=\"M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z\"></path></svg></a></div></div><div class=\"padding-right-minibase flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb6\" id=\"\"><div class=\"align-start\"><a href=\"https://www.instagram.com/amazonjobs\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Navigate to our Instagram page.\" class=\"color-instagram \" data-test-id=\"HVHCareersLegoIconWidget\"><svg width=\"32\" height=\"32\" viewBox=\"0 0 448 512\" fill=\"currentColor\" class=\"icon-instagram icon-link\" xmlns=\"http://www.w3.org/2000/svg\" aria-describedby=\"icon-desc\"><desc id=\"icon-desc\">instagram</desc><title>instagram</title><path d=\"M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z\"></path></svg></a></div></div><div class=\"padding-right-minibase flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb6\" id=\"\"><div class=\"align-start\"><a href=\"https://x.com/amazonnews\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Navigate to our X page.\" class=\"color-x-twitter \" data-test-id=\"HVHCareersLegoIconWidget\"><svg width=\"32\" height=\"32\" viewBox=\"0 0 448 512\" fill=\"currentColor\" class=\"icon-x-twitter icon-link\" xmlns=\"http://www.w3.org/2000/svg\" aria-describedby=\"icon-desc\"><desc id=\"icon-desc\">x-twitter</desc><title>x-twitter</title><path d=\"M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z\"></path></svg></a></div></div><div class=\"padding-right-minibase flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb9\" id=\"\"><div class=\"align-start\"><a href=\"https://www.linkedin.com/company/amazon\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Navigate to our LinkedIn page.\" class=\"color-linkedin \" data-test-id=\"HVHCareersLegoIconWidget\"><svg width=\"32\" height=\"32\" viewBox=\"0 0 448 512\" fill=\"currentColor\" class=\"icon-linkedin icon-link\" xmlns=\"http://www.w3.org/2000/svg\" aria-describedby=\"icon-desc\"><desc id=\"icon-desc\">linkedin</desc><title>linkedin</title><path d=\"M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z\"></path></svg></a></div></div></div></div></div><div class=\"common-en-gb-sb10\"></div><div class=\"border-color-white padding-left-mini padding-right-mini padding-top-mini padding-bottom-base border-bottom-1px flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb12\" id=\"\"><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb12\" id=\"\"><div class=\"padding-bottom-xsmall flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"text align-start text text-normal color-white font-size-t200 hyperlink-color- font-weight-bold align-start\">JOB ROLES</div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/associate-roles/warehouse-operative\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the warehouse operative role page.\">Warehouse operative</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/associate-roles/sortation-operative\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the sortation operative role page.\">Sortation operative</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/associate-roles/fresh\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the Amazon Fresh warehouse role page.\">Amazon Fresh warehouse</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/customer-service\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the Customer Service roles page.\">Customer Service roles</a></div></div></div><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb12\" id=\"\"><div class=\"padding-bottom-xsmall flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"text align-start text text-normal color-white font-size-t200 hyperlink-color- font-weight-bold align-start\">SUPPORT</div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/associate-roles/faqs\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the fulfilment associate hiring FAQs page.\">Fulfilment Associate hiring FAQs</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/customer-service/faqs\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the Customer Service hiring FAQs page.\">Customer Service hiring FAQs</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/disabilityinclusion\" class=\"link \" aria-label=\"Navigate to the people with disabilities page.\">People with Disabilities</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/contact-us\" class=\"link \" aria-label=\"Navigate to the contact us page.\">Contact us</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/sitemap\" class=\"link \" aria-label=\"Navigate to the sitemap.\">Sitemap</a></div></div></div></div><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb12\" id=\"\"><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb12\" id=\"\"><div class=\"padding-bottom-xsmall flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"text align-start text text-normal color-white font-size-t200 hyperlink-color- font-weight-bold align-start\">WHY AMAZON</div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/associate-roles/benefits\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the Fulfilment Associate benefits page.\">Fulfilment Associate benefits</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-white font-size-t200 font-weight-normal  align-start\"><a href=\"/customer-service/benefits\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the customer service associates benefits page.\">Customer Service Associate benefits</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-athens-gray font-size-t200 font-weight-normal  align-start\"><a href=\"/culture\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the culture page.\">Culture</a></div></div><div class=\"padding-top-xmini padding-bottom-xmini flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"align-start hyperlink  color-athens-gray font-size-t200 font-weight-normal  align-start\"><a href=\"/leadership-principles\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the leadership principles page.\">Leadership principles</a></div></div></div><div class=\"padding-left-mini padding-right-mini padding-top-xsmall flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb12\" id=\"\"><div class=\"image image-width-150 align-start lazy\"> <img src=\"https://www.jobsatamazon.co.uk/app/logo.92a0feec.svg\" data-src=\"https://www.jobsatamazon.co.uk/app/logo.92a0feec.svg\" alt=\"\" title=\"\" height=\"auto\" class=\"common-en-gb-sb34\"></div></div></div></div></div></div><div class=\"background-color-ebony-clay padding-left-small padding-right-small padding-top-small padding-bottom-base flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"has-max-width\"><div class=\"padding-left-mini padding-right-xsmall flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb12\" id=\"\"><div class=\"text align-start text text-normal color-silver-sand font-size-t100 hyperlink-color- font-weight-normal align-start\">Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status.</div></div><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb37\" id=\"\"><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"has-max-width\"><div class=\"align-start hyperlink hyperlink-underline color-white font-size-t100 font-weight-normal  align-start\"><a href=\"/privacy-notice\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the privacy notice page.\">Privacy Notice</a></div></div></div><div class=\"flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width hvhcareer ember common-en-gb-sb0\" id=\"\"><div class=\"has-max-width\"><div class=\"align-start hyperlink hyperlink-underline color-white font-size-t100 font-weight-normal  align-start\"><a href=\"https://www.jobsatamazon.co.uk/privacy-notice/cookie-notice\" class=\"link \" target=\"_blank\" aria-label=\"Navigate to the privacy notice page.\">Cookie Notice</a></div></div></div></div><div class=\"padding-right-mini flex-container flex-align-items-stretch flex-align-content-flex-start hvhcareer ember common-en-gb-sb37\" id=\"\"><div class=\"text align-start text text-normal color-silver-sand font-size-t100 hyperlink-color- font-weight-normal align-start\">\u00a9 1996-2026, Amazon.com, Inc. or its affiliates</div></div></div></div></div></div> \n</div>\n\n<script src=\"https://d3216uwaav9lg7.cloudfront.net/assets-HVHCareer.js\" type=\"text/javascript\" nonce=\"IUnn2M27ydxg0IaqALsEwQ==\"></script>\n",
+        "headContent": "\n\n<link id=\"lego-extracted-styles\" nonce=\"IUnn2M27ydxg0IaqALsEwQ==\" rel=\"stylesheet\" type=\"text/css\" href=\"/app/css/cec60829249ad61611845fe31aeefbcddc31fc7a203a7c81d973b2cbc87d2e28.css\">\n"
+      }
+    }
+  },
+  {
+    "Intercepts": [
+      {
+        "InterceptID": "SI_erI6eosCnehIFKu",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_eS96dlHIkH10dnw",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_eDqeh6qF9OXAFZs",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_d3Y1haaEtY9YTX0",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_cZPY2OKp87vcZPo",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_cBg8IPEMSvrFiBM",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_O80ZHP9fs2bRxUR",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_9yNv1vbzSHrcC8u",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_9tSD3bpaHVTFdYi",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_9FU77E8vLq4yzMW",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_80RQkPlCvY0tEvc",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_71xbmimaB3YX9vU",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_6S8lAyLg72iqBSu",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_5ss66OVCd9eDIhg",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_4Pm2ipGVvVR906a",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_3qqYEt2Fv9AHalL",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_3XhjNRYVmUe0KRE",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_3Qzkv61lDtzj6Ky",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_33C6tDzi0BTw3s7",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_2sJ3P6Oteok3CIK",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_20nbqDODZFks3XM",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_1OjaqtKqworTnhA",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_1CkcWAv8UMH4G1w",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_12gwOKZzR6yodwK",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_0Ve4nmYgcKhFPfw",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_0IjDqsrL1dCZPKe",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_0BewLJFfOMqfcBE",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      },
+      {
+        "InterceptID": "SI_06SaJkoY2r4ViE6",
+        "InterceptRevision": null,
+        "Decision": {
+          "ActionSetID": null,
+          "Creative": null,
+          "Target": {
+            "Type": "",
+            "URL": "",
+            "OriginalURL": null,
+            "OriginalURLOrigin": null,
+            "DisplayType": null
+          },
+          "PopUnderTarget": null
+        },
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactID": null,
+        "SurveyID": null
+      }
+    ],
+    "ClientSideIntercepts": [
+      {
+        "InterceptID": "SI_06SaJkoY2r4ViE6",
+        "Name": "[MX] DTR1 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_0BewLJFfOMqfcBE",
+        "Name": "Commuter Services Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "0",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_0IjDqsrL1dCZPKe",
+        "Name": "[MX] WFS Evergreen Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "4",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_0Ve4nmYgcKhFPfw",
+        "Name": "[EG] CS Job Description Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_12gwOKZzR6yodwK",
+        "Name": "[FR-CA] Hiring Website Survey 2.0",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "28",
+        "PreventRepeatedDisplay": "0",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_1CkcWAv8UMH4G1w",
+        "Name": "[MX] MID1 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_1OjaqtKqworTnhA",
+        "Name": "[US] WFS Evergreen Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "5",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_20nbqDODZFks3XM",
+        "Name": "[US] WNY4 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "4",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_2sJ3P6Oteok3CIK",
+        "Name": "[EG] CS Persona Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_33C6tDzi0BTw3s7",
+        "Name": "[CA-En]  Hiring Website Survey 2.0",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "45",
+        "PreventRepeatedDisplay": "0",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_3Qzkv61lDtzj6Ky",
+        "Name": "[JP] Flexible Schedules Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_3XhjNRYVmUe0KRE",
+        "Name": "[MX] DHM2 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_3qqYEt2Fv9AHalL",
+        "Name": "[US-En] Hiring Website Survey 2.0",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "73",
+        "PreventRepeatedDisplay": "60",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_4Pm2ipGVvVR906a",
+        "Name": "[DE] WFS Evergreen Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_5ss66OVCd9eDIhg",
+        "Name": "[US] Gig Competitor Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": false,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_6S8lAyLg72iqBSu",
+        "Name": "[JP] CS Persona Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_71xbmimaB3YX9vU",
+        "Name": "[EG] CS Channel Mix Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_80RQkPlCvY0tEvc",
+        "Name": "[US] RSR Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "47",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_9FU77E8vLq4yzMW",
+        "Name": "[PH] CS Persona Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_9tSD3bpaHVTFdYi",
+        "Name": "[MX] DMY4 Page Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "2",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_9yNv1vbzSHrcC8u",
+        "Name": "[IE] Persona Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "5",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_O80ZHP9fs2bRxUR",
+        "Name": "[US-Es] Hiring Website Survey 2.0",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "43",
+        "PreventRepeatedDisplay": "0",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_cBg8IPEMSvrFiBM",
+        "Name": "[MX] Risk Markets Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "17",
+        "PreventRepeatedDisplay": "60",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_cZPY2OKp87vcZPo",
+        "Name": "[US] AMXL Equipment Operator Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "13",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_d3Y1haaEtY9YTX0",
+        "Name": "[US] AMXL Warehouse Associate Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "17",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_eDqeh6qF9OXAFZs",
+        "Name": "[JP] WFS Evergreen Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "5",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_eS96dlHIkH10dnw",
+        "Name": "[JP] CS Job Description Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "3",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      },
+      {
+        "InterceptID": "SI_erI6eosCnehIFKu",
+        "Name": "[PH] CS Job Description Survey Intercept",
+        "Active": true,
+        "RandomizedActionSets": false,
+        "InterceptRevision": "7",
+        "PreventRepeatedDisplay": "90",
+        "HideOnLocalStorageDisabled": true,
+        "HideOnCookiesDisabled": true,
+        "LogicTree": {
+          "Value": false,
+          "Type": "ValueNode"
+        },
+        "ActionSets": [],
+        "ContactID": null,
+        "DistributionID": null,
+        "DirectoryID": null,
+        "ContactFrequencyRulesEnabled": false
+      }
+    ],
+    "Modules": {},
+    "FeatureFlags": {
+      "DX.PepperPotts_TestingTools": false,
+      "DUX.ClientSideTargetingM1": true,
+      "SI.ResponsiveDialog.EnableDisplayOptions": true,
+      "DX.GoogleDataLayer": true,
+      "DX.CustomCSSChanges": true,
+      "DX.PepperPotts_XMD": true,
+      "DX.UpdateAssetHostName": false,
+      "DX.DxaAdobeEvents": false,
+      "DX.UseDXAIngestionV2": true,
+      "DX.PepperPotts_PakoCompression": true,
+      "isClientLoggingEnabled": false,
+      "DX.EmbeddedFeedback_NewAPIs": true,
+      "DX.PostToStart": true,
+      "DX.DXA_Disable_Inline_Stylesheets": false,
+      "DX.DXA_UseSyntheticPageChangeEvents": true,
+      "DX.DXA_iFrames": true,
+      "DX.DXA_No_Delay": true,
+      "DX.PepperPotts_VisitorEnabled": true,
+      "DX.DXA_Error_Capture": true,
+      "deferredSliderLoadingFeatureEnabled": true,
+      "DX.DxaGoogleEvents": false,
+      "DX.DXA_Enforce_MinSessionLength": true,
+      "DX.EnableTriggers.Experimental": false,
+      "DX.ConsolidateShowOverlay": false,
+      "DX.DXA_NearestClickableTarget": false,
+      "DX.EmbeddedFeedback_GA_Visitor": true,
+      "isLatencyLoggingEnabled": true,
+      "DX.DXA_DI_EA": true,
+      "DX.StatsAccuracy": true,
+      "DX.RealTimeTriggeredIntercepts": true,
+      "DX.DXA_Auto_SPA": false,
+      "DX.DXA_Collect_KPIs": false
+    },
+    "RequestData": {
+      "CORSOrigin": "https://www.jobsatamazon.co.uk",
+      "ID": "ZN_3NL3gGLPGXNwm0K",
+      "adobeSCVariable": "/ss",
+      "bVersion": "Published",
+      "brandBaseUrl": "https://amazonhiring.qualtrics.com",
+      "brandDC": "pdx1.qualtrics.com",
+      "brandID": "amazonhiring",
+      "browser": "Chrome",
+      "browserVersion": 124.0,
+      "cookieDomain": "",
+      "googleDataLayerVariable": "",
+      "displayInterceptType": "",
+      "eventTrackers": {},
+      "extRefType": "",
+      "extRefValue": "",
+      "hasBeenResolved": false,
+      "hasDependencies": false,
+      "isBrowserSupported": true,
+      "isDebug": false,
+      "isMobile": false,
+      "historyStorageType": "sessionStorage",
+      "historyStorageSize": 1000,
+      "maxCookieSize": null,
+      "osName": "Windows",
+      "screenCaptureServiceBaseURL": "https://pdx1.qualtrics.com/htmltoimage/",
+      "validIntercepts": null,
+      "zoneManualDisplay": false,
+      "reevaluateInterceptOnUrlChange": true,
+      "geo": {
+        "country": "US"
+      },
+      "customJavaScriptPermission": false,
+      "isolationStatus": "NOT_ISOLATED",
+      "validatedIdentifier": false,
+      "validatedIdentifierRules": [],
+      "zoneIdentifierRules": [],
+      "zoneID": "ZN_3NL3gGLPGXNwm0K"
+    },
+    "SRTestConfiguration": null,
+    "PageTags": []
+  },
+  {
+    "token": "96810ae8-2f16-4bc2-a125-cc80d955ead8:FAoAcHhqMITVKAAA:rEeabU3AYsGvDmsbT2qG0pCzIP3icD4qirQVsa1XgpwdpDEW9mzNxhQbtD+sV2gjpo1MDLgQnXYBLSc/fGw/47HpJCInFkdg2I/XQiLJj3Dc61bkJ1/pVSgFGKihsefe9UaRhZ8KRqM9oIizWIl1DoE/sdZk97QdJkvHIzGQyDmfBRIOjvhWUDqt6YidsmtBYDqCTsP1g9nLRoP2gkyvEaLgir0gt3gzes03O/VBSG3EbYwA+NGiH+Vi/92wlCNZVbUIpl6mx9w6fVjQ0/vPaAddXngOfMjovvljUogXqReudfxF476y/EyFbJKr0DzWJkyhEw7m5SoV97SCoerq1got2khnASYdAP11Wg3ZearkXO/NSpr1ozN8Odc/CdTzfYxI4vOXFqmPNEEqfx/n5Rwxhefc+IAunXEWmQuu81Gs1ATcVzpg57D+",
+    "next_interval": 100,
+    "awswaf_session_storage": "96810ae8-2f16-4bc2-a125-cc80d955ead8:FAoAcHhqMIXVKAAA:nr4yilXKivt+UWZhS969DgssQJd5CQ2SsnpPynZPJjVJmrCrrmU3ld2AgmbzcBhmNSm4hC3U9w+xuPsnPnc7HncCiaYC5yZOF9iPt1vmTGpLGCZmOmUdC0PAQr4EYVCz/J0K0eo2tgM4CzAbl5tgQrRzjJ/nIEFkANPqVJKzj+1eXS3cdVTm50m/ZBbm2ynobKjvpYsqhKv9c6deFdjqs9Qb6E25fHSSps8DSOzk0/L/RuJz4LPrI5fLm8BtXAO6lob5TD2vnYAZfQxrk+tZyEFq/owq1TV/WussRYc0nOL6Pt0ePUt04HaXpRSnecBvKwjdAFMq50yH9FqSc6nU4hcLyANF0saurJabN+eD2/syFLgkUWiPB/HIMqjxcaUWpP1q32/sIbPun7Ir8fflH3quTBLXenA5ZZ3FxvP943um3LInou0BDZHjINHbbgvdrbw+yIv+Zqu/yFdp3xIgXDcl"
+  },
+  {
+    "data": {
+      "queryGeoInfoByAddress": [
+        {
+          "country": "GBR",
+          "lat": 51.653339514347,
+          "lng": -0.026346333337,
+          "postalCode": "EN3 7PZ",
+          "label": "EN3 7PZ, Enfield, England, GBR",
+          "municipality": "Enfield",
+          "region": "England",
+          "subRegion": "Middlesex",
+          "addressNumber": null,
+          "__typename": "GeoInfo"
+        }
+      ]
+    }
+  },
+  {
+    "errorMessage": "Request is unauthorized",
+    "errorMessageStringId": "unauthorized-error"
+  },
+  {
+    "token": "eyJhbGciOiJLTVMiLCJ0eXAiOiJKV1QifQ.eyJpYXQiOjE3OTQ3OTA5MjcsImV4cCI6MTc5NDc5NDUyN30.AQICAHgRVX6yB5HaOXG/6jWEErD4AnJUVlc3se+5PoiAFFV3IgFADrj6cU5rQHFTG/bHugxdAAAAtDCBsQYJKoZIhvcNAQcGoIGjMIGgAgEAMIGaBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDKXwuuWWkxZSTB7KzQIBEIBtxv9osvDLlQUcpKTCgQX9w3mdTT/DzENKGHSt5pik0bvUuvKqOeHJgCL0F4oeQmDh0yGv34zGw3xETb2drMobU4j7DaksiWElcmr+5ojXHgM2i6hCnpjs37rql/zmQHRNGwCWmyKcSgvMbafHrQ=="
+  },
+  {
+    "data": {
+      "searchJobCardsByLocation": {
+        "nextToken": null,
+        "jobCards": [
+          {
+            "jobId": "JOB-UK-0000000203",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Delivery Station Warehouse Associate",
+            "jobType": "Part-time",
+            "employmentType": "Seasonal",
+            "city": "Bathgate",
+            "state": "Scotland",
+            "postalCode": "EH48 2FB",
+            "locationName": "Bathgate",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "The last stop before delivering customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Delivery_Station_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/HR/eu-wfs/UK_AMZL_Delivery.mp4#t=0.5",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 1,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Locations Near Bathgate",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Part Time",
+            "employmentTypeL10N": "Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": false,
+            "payFrequency": "Hourly",
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": "AMZN_WFS",
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          },
+          {
+            "jobId": "JOB-UK-0000000204",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Delivery Station Warehouse Associate",
+            "jobType": "Full-time;Part-time;Reduced",
+            "employmentType": "Seasonal",
+            "city": null,
+            "state": null,
+            "postalCode": null,
+            "locationName": "Belfast",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "The last stop before delivering customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Delivery_Station_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/HR/eu-wfs/UK_AMZL_Delivery.mp4#t=0.5",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 7,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Locations Near Belfast",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Full Time;Part Time;Reduced Time",
+            "employmentTypeL10N": "Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": false,
+            "payFrequency": "Hourly",
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": "AMZN_WFS",
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          },
+          {
+            "jobId": "JOB-UK-0000000349",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Warehouse Associate",
+            "jobType": "Reduced",
+            "employmentType": "Seasonal",
+            "city": "Hull",
+            "state": "England",
+            "postalCode": "HU14 3HB",
+            "locationName": "Hull Area",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "Prepare customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Fulfillment_Center_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/wfs/videos/Accessible_videos/EMEA_MultiRole-Cluster_en-GB.mp4\u00a0",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 1,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Hull Area",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Reduced Time",
+            "employmentTypeL10N": "Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": false,
+            "payFrequency": "Hourly",
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": null,
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          },
+          {
+            "jobId": "JOB-UK-0000000537",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Warehouse Associate",
+            "jobType": "Reduced",
+            "employmentType": "Seasonal",
+            "city": "Doncaster",
+            "state": "England",
+            "postalCode": "DN11 0BF",
+            "locationName": "Doncaster Area",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "Prepare customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Fulfillment_Center_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/wfs/videos/Accessible_videos/EMEA_MultiRole-Cluster_en-GB.mp4\u00a0",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 1,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Doncaster Area",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Reduced Time",
+            "employmentTypeL10N": "Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": false,
+            "payFrequency": "Hourly",
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": "AMZN_WFS",
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          },
+          {
+            "jobId": "JOB-UK-0000000548",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Delivery Station Warehouse Associate",
+            "jobType": "Part-time;Reduced",
+            "employmentType": "Seasonal",
+            "city": "Dundee",
+            "state": "Scotland",
+            "postalCode": "DD4 9FF",
+            "locationName": "Dundee Area",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "The last stop before delivering customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Delivery_Station_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/HR/eu-wfs/UK_AMZL_Delivery.mp4#t=0.5",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 2,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Dundee Area",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Part Time;Reduced Time",
+            "employmentTypeL10N": "Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": false,
+            "payFrequency": "Hourly",
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": "AMZN_WFS",
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          },
+          {
+            "jobId": "JOB-UK-0000000660",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Delivery Station Warehouse Associate",
+            "jobType": "Full-time;Reduced",
+            "employmentType": "Seasonal",
+            "city": "Garden City",
+            "state": "Wales",
+            "postalCode": "CH5 2JF",
+            "locationName": "Garden City Area",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "The last stop before delivering customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Delivery_Station_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/HR/eu-wfs/UK_AMZL_Delivery.mp4#t=0.5",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 9,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Garden City Area",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Full Time;Reduced Time",
+            "employmentTypeL10N": "Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": false,
+            "payFrequency": "Hourly",
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": "AMZN_WFS",
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          },
+          {
+            "jobId": "JOB-UK-0000000661",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Delivery Station Warehouse Associate",
+            "jobType": "Part-time",
+            "employmentType": "Seasonal",
+            "city": "Carlisle",
+            "state": "England",
+            "postalCode": "CA6 5TR",
+            "locationName": "Carlisle Area",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "The last stop before delivering customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Delivery_Station_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/HR/eu-wfs/UK_AMZL_Delivery.mp4#t=0.5",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 1,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Carlisle Area",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Part Time",
+            "employmentTypeL10N": "Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": false,
+            "payFrequency": "Hourly",
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": "AMZN_WFS",
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          },
+          {
+            "jobId": "JOB-UK-0000000662",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Delivery Station Warehouse Associate",
+            "jobType": "Flex;Part-time;Reduced",
+            "employmentType": "Seasonal",
+            "city": "Exeter",
+            "state": "England",
+            "postalCode": "EX5 2FL",
+            "locationName": "Exeter/Plymouth Area",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "The last stop before delivering customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Delivery_Station_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/HR/eu-wfs/UK_AMZL_Delivery.mp4#t=0.5",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 5,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Exeter/Plymouth Area",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Flex Time;Part Time;Reduced Time",
+            "employmentTypeL10N": "Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": false,
+            "payFrequency": "Hourly",
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": "AMZN_WFS",
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          },
+          {
+            "jobId": "JOB-UK-0000000664",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Delivery Station Warehouse Associate",
+            "jobType": "Reduced",
+            "employmentType": "Seasonal",
+            "city": "Bognor Regis",
+            "state": "England",
+            "postalCode": "PO22 9FJ",
+            "locationName": "Bognor Regis",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "The last stop before delivering customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Delivery_Station_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/HR/eu-wfs/UK_AMZL_Delivery.mp4#t=0.5",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 1,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Locations Near Bognor Regis",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Reduced Time",
+            "employmentTypeL10N": "Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": false,
+            "payFrequency": "Hourly",
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": "AMZN_WFS",
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          },
+          {
+            "jobId": "JOB-UK-0000000640",
+            "jobUuid": null,
+            "language": "English",
+            "dataSource": "Dragonstone",
+            "requisitionType": null,
+            "jobTitle": "Delivery Station Warehouse Associate",
+            "jobType": "Flex Time;Full Time;Part Time;Reduced Time",
+            "employmentType": "Regular;Seasonal",
+            "city": "Plymouth",
+            "state": "England",
+            "postalCode": "PL6 7PP",
+            "locationName": "DXP1 Amazon",
+            "totalPayRateMin": 15.1,
+            "totalPayRateMax": 15.1,
+            "tagLine": "The last stop before delivering customer orders.",
+            "bannerText": null,
+            "image": "https://m.media-amazon.com/images/G/01/wfs/Icons/HBA_Job_ID_Illustration_Delivery_Station_Warehouse_Associate.svg",
+            "jobPreviewVideo": "https://m.media-amazon.com/images/G/03/HR/eu-wfs/UK_AMZL_Delivery.mp4#t=0.5",
+            "distance": null,
+            "featuredJob": false,
+            "bonusJob": false,
+            "bonusPay": 0.0,
+            "scheduleCount": 0,
+            "currencyCode": "GBP",
+            "geoClusterDescription": "Exeter/Plymouth Area",
+            "surgePay": 0.0,
+            "jobTypeL10N": "Flex Time;Full Time;Part Time;Reduced Time",
+            "employmentTypeL10N": "Regular;Seasonal",
+            "bonusPayL10N": "\u00a30",
+            "surgePayL10N": "\u00a30.00",
+            "totalPayRateMinL10N": "\u00a315.10",
+            "totalPayRateMaxL10N": "\u00a315.10",
+            "distanceL10N": null,
+            "monthlyBasePayMin": null,
+            "monthlyBasePayMinL10N": null,
+            "monthlyBasePayMax": null,
+            "monthlyBasePayMaxL10N": null,
+            "jobContainerJobMetaL1": null,
+            "virtualLocation": null,
+            "poolingEnabled": true,
+            "payFrequency": null,
+            "jobLocationType": "Physical",
+            "internalStaffingOrgId": "AMZN_WFS",
+            "agencyName": null,
+            "advertisedBasePay": null,
+            "advertisedBasePayL10N": null,
+            "advertisedPayFrequency": null,
+            "advertisedPayFrequencyL10N": null,
+            "__typename": "JobCard"
+          }
+        ],
+        "__typename": "SearchJobResponse"
+      }
+    }
+  },
+  {
+    "data": {
+      "searchJobCardsByLocation": {
+        "nextToken": null,
+        "jobCards": [],
+        "__typename": "SearchJobResponse"
+      }
+    }
+  },
+  {
+    "errorMessage": "Request is unauthorized",
+    "errorMessageStringId": "unauthorized-error"
+  },
+  {
+    "data": {
+      "searchJobCardsByLocation": {
+        "nextToken": null,
+        "jobCards": [],
+        "__typename": "SearchJobResponse"
+      }
+    }
+  },
+  {
+    "token": "96810ae8-2f16-4bc2-a125-cc80d955ead8:FAoArcdqJc57KQAA:zCVfLN4+B5svClZusyYdBOUvYxeWCezvUiiukSyOVec068btR6z9uZe1KmBeEUtC5eu8ibu45Fs+XOPzdVnAiBnebbRFyBeUZ1WyJ3+tGfXmz43ciKsfj5v38KkBX9GAC/VxTZOYfTB5R2nK5URTvYjI/WurzYwZEgXIdqyGR0uGZs502sUXDoTuY2G6wcjNBQaZU5yWydbpDod9YsJf+ES91OEHvxqNMYmUFvH7+S7iGF7gVRxlBrbrZZD5mmAjwtcxFuozviKf+TmFTVj9qAVmtfTJ9p8be/FJfiN5dIaiFdSlGWWRkHkcZ7e+CWYx3V1eMBTdWaYfuDymSsViM5nAeKJjqOSqLkgUPZWiLlPOvwgNi8WWxxIbvQwbrGOEw+H7klOt9ysND9BUL7hF90HufNNx2hj6g/2EPYLxW5eINC69Yo1Ey8j9",
+    "next_interval": 200,
+    "awswaf_session_storage": "96810ae8-2f16-4bc2-a125-cc80d955ead8:FAoArcdqJc97KQAA:lpQA6DaZNKmT2kWcFGNU8dpTp3T3t2lSDaOL84XrwiU/i/JzHR6fPiH6818hZYKgk5p/c9Z/L+CPeK805GV//fIhDESyI3LdAisWKVqp156X8kEo1HZvcrmdxLVrhuI8N47v+32a9tMrKgwU6MdW6iqsuZNE0WQhxCAjY1oRsWnlo5u+ALA5sKiTIAuagBTYApPiR2ABEt0HRqb9XzdJfOLbVCey898nI0W0fhE+GLTSSNQiW+4ccQraPNOv3/W6BHMK1FMjR/2VvrQR1BtlbU6XKwp6iO0KHBrFVOGQ4TFQoZgoARjv+Rry21zCA126hQ7wj/plftPEfU2riVf4dM3vL9Ru3kSkkCwdpU5lUDGK2nwCAzEoiPkonuLjPy/XhW8k4L16qkZ6iI3DUyUFptMUIecMfbMXMEhEEKktS0Er8U657BMdf0yR/T2j0TTLPPh3kxI8D5jIYKqd0+4P9p+JiZltw2OjzWUZbgBcydPGVggEPdylhAf5cwchM7X0pd0QjFC6PW9+4r6g9NiJtVpU9VHrbOmPp5L/aArlhDTWxShg"
+  }
+]

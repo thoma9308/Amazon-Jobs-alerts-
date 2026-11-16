@@ -1,1 +1,142 @@
-{}
+{
+  "Your pay just got an upgrade.": {
+    "title": "Your pay just got an upgrade.",
+    "location": ""
+  },
+  "Job Roles": {
+    "title": "Job Roles",
+    "location": ""
+  },
+  "Warehouse Jobs": {
+    "title": "Warehouse Jobs",
+    "location": ""
+  },
+  "Intro to Warehouse Jobs": {
+    "title": "Intro to Warehouse Jobs",
+    "location": ""
+  },
+  "Warehouse Operative": {
+    "title": "Warehouse Operative",
+    "location": ""
+  },
+  "Sortation Operative": {
+    "title": "Sortation Operative",
+    "location": ""
+  },
+  "Amazon Fresh Warehouse": {
+    "title": "Amazon Fresh Warehouse",
+    "location": ""
+  },
+  "Customer Service Jobs": {
+    "title": "Customer Service Jobs",
+    "location": ""
+  },
+  "Intro to Customer Service Jobs ": {
+    "title": "Intro to Customer Service Jobs ",
+    "location": ""
+  },
+  "Customer Service Associate": {
+    "title": "Customer Service Associate",
+    "location": ""
+  },
+  "Remote Customer Service Associate": {
+    "title": "Remote Customer Service Associate",
+    "location": ""
+  },
+  "Hiring Process": {
+    "title": "Hiring Process",
+    "location": ""
+  },
+  "Fulfilment Associate": {
+    "title": "Fulfilment Associate",
+    "location": ""
+  },
+  "Customer Service": {
+    "title": "Customer Service",
+    "location": ""
+  },
+  "Why Choose Amazon": {
+    "title": "Why Choose Amazon",
+    "location": ""
+  },
+  "Benefits": {
+    "title": "Benefits",
+    "location": ""
+  },
+  "Fulfilment Associate Benefits": {
+    "title": "Fulfilment Associate Benefits",
+    "location": ""
+  },
+  "Customer Service Benefits": {
+    "title": "Customer Service Benefits",
+    "location": ""
+  },
+  "Culture": {
+    "title": "Culture",
+    "location": ""
+  },
+  "Leadership Principles": {
+    "title": "Leadership Principles",
+    "location": ""
+  },
+  "Support": {
+    "title": "Support",
+    "location": ""
+  },
+  "FAQs": {
+    "title": "FAQs",
+    "location": ""
+  },
+  "Request accommodation": {
+    "title": "Request accommodation",
+    "location": ""
+  },
+  "Youth Promise": {
+    "title": "Youth Promise",
+    "location": ""
+  },
+  "Contact us": {
+    "title": "Contact us",
+    "location": ""
+  },
+  "JOB-UK-0000000203": {
+    "title": "Delivery Station Warehouse Associate",
+    "location": "Bathgate"
+  },
+  "JOB-UK-0000000204": {
+    "title": "Delivery Station Warehouse Associate",
+    "location": "Belfast"
+  },
+  "JOB-UK-0000000349": {
+    "title": "Warehouse Associate",
+    "location": "Hull"
+  },
+  "JOB-UK-0000000537": {
+    "title": "Warehouse Associate",
+    "location": "Doncaster"
+  },
+  "JOB-UK-0000000548": {
+    "title": "Delivery Station Warehouse Associate",
+    "location": "Dundee"
+  },
+  "JOB-UK-0000000660": {
+    "title": "Delivery Station Warehouse Associate",
+    "location": "Garden City"
+  },
+  "JOB-UK-0000000661": {
+    "title": "Delivery Station Warehouse Associate",
+    "location": "Carlisle"
+  },
+  "JOB-UK-0000000662": {
+    "title": "Delivery Station Warehouse Associate",
+    "location": "Exeter"
+  },
+  "JOB-UK-0000000664": {
+    "title": "Delivery Station Warehouse Associate",
+    "location": "Bognor Regis"
+  },
+  "JOB-UK-0000000640": {
+    "title": "Delivery Station Warehouse Associate",
+    "location": "Plymouth"
+  }
+}
