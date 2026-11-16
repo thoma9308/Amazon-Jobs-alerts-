@@ -1,8 +1,4 @@
 {
-  "Your pay just got an upgrade.": {
-    "title": "Your pay just got an upgrade.",
-    "location": ""
-  },
   "Job Roles": {
     "title": "Job Roles",
     "location": ""
@@ -99,44 +95,8 @@
     "title": "Contact us",
     "location": ""
   },
-  "JOB-UK-0000000203": {
-    "title": "Delivery Station Warehouse Associate",
-    "location": "Bathgate"
-  },
-  "JOB-UK-0000000204": {
-    "title": "Delivery Station Warehouse Associate",
-    "location": "Belfast"
-  },
-  "JOB-UK-0000000349": {
-    "title": "Warehouse Associate",
-    "location": "Hull"
-  },
-  "JOB-UK-0000000537": {
-    "title": "Warehouse Associate",
-    "location": "Doncaster"
-  },
-  "JOB-UK-0000000548": {
-    "title": "Delivery Station Warehouse Associate",
-    "location": "Dundee"
-  },
-  "JOB-UK-0000000660": {
-    "title": "Delivery Station Warehouse Associate",
-    "location": "Garden City"
-  },
-  "JOB-UK-0000000661": {
-    "title": "Delivery Station Warehouse Associate",
-    "location": "Carlisle"
-  },
-  "JOB-UK-0000000662": {
-    "title": "Delivery Station Warehouse Associate",
-    "location": "Exeter"
-  },
-  "JOB-UK-0000000664": {
-    "title": "Delivery Station Warehouse Associate",
-    "location": "Bognor Regis"
-  },
-  "JOB-UK-0000000640": {
-    "title": "Delivery Station Warehouse Associate",
-    "location": "Plymouth"
+  "Your pay just got an upgrade.": {
+    "title": "Your pay just got an upgrade.",
+    "location": ""
   }
 }
